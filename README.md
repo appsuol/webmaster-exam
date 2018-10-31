@@ -7,7 +7,7 @@ Você pode usar qualquer framework de sua preferência para exibir os dados a pa
 
 Não altere o conteúdo do arquivo `assets/feed.json`
 
-O que erá avaliado:
+O que será avaliado:
 - organização e semântica do código
 - organização dos arquivos
 - otimizações para melhoria de performance
