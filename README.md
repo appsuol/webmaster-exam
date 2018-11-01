@@ -7,6 +7,8 @@ Você pode usar qualquer framework de sua preferência para exibir os dados a pa
 
 Não altere o conteúdo do arquivo `assets/feed.json`
 
+Crie um clone desse repositório git, compartilhe o seu código criado em um repositório no github, se possível mapeie as tarefas em um board no trello, para podermos ver o seu processo de desenvolvimento.
+
 O que será avaliado:
 - organização e semântica do código
 - organização dos arquivos
